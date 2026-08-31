@@ -1,0 +1,14 @@
+Data Inventory Report
+==============================
+
+Column: name (text)
+  count=5  unique=5  most_common=alice
+
+Column: age (numeric)
+  count=5  min=23.0  max=31.0  avg=27.0
+
+Column: city (text)
+  count=5  unique=3  most_common=delhi
+
+Column: score (numeric)
+  count=5  min=60.0  max=95.0  avg=79.2
