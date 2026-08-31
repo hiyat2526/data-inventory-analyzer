@@ -1,4 +1,3 @@
-```markdown
 # Data Inventory Analyzer
 
 A lightweight CSV analysis tool built with pure Python — no pandas, no `csv` module, just built-ins. Written as the Phase 1 capstone for the Vervenest Python track.
@@ -26,11 +25,6 @@ By default it looks for `sample_data.csv` in the same directory and writes resul
 ## Example
 
 Input (`sample_data.csv`):
-```
-name,age,city,score
-alice,23,mumbai,88
-bob,31,delhi,72
-```
 
 Output:
 ```
